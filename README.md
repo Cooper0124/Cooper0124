@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Cooper0124/Cooper0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there👋
 
-Here are some ideas to get you started:
+- ⚡About me:
+  - A professional goofball.
+  - Music addict. (especially to [Abel](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ))
+  - Huge fan of [Formula 1](https://www.formula1.com/), [NASCAR](https://www.nascar.com/), [WRC](https://www.wrc.com/). Car head.
+  - Got some [mental health issues](https://en.wikipedia.org/wiki/Generalized_anxiety_disorder). (working on that one though)
+- 🌱 Current learning:
+  - [Swift](https://www.swift.org)
+  - [Rust](https://www.rust-lang.org/)
+  - [TypeScript](https://www.typescriptlang.org/)
+- 📫Contact me:
+  - [Telegram](https://t.me/Cooper0124)
+  - [yanggggggggggg89@gmail.com](mailto:yanggggggggggg89@gmail.com) 
+- ➕ Follow/Subscribe me:
+  - [Twitter/𝕏](https://twitter.com/Cooper_0124)(SFW)
+  - [Instagram](https://instagram.com/shawncooper0124)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Have a great day! ☀ 
